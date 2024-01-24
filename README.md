@@ -10,3 +10,5 @@ To run everything smoothly in mac os, follow the steps:
 ***** Important *****
 Scraped Data File With Label : youtube_comments_labeled_multilingual_with_banglish.csv
 Final Code For Scraped Data : scraped_data_final.ipynb
+5. (install pip if pip is not installed)
+6. pip install bltk
