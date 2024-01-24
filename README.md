@@ -1,6 +1,8 @@
 # nlp text classification 
  A simple NLP classifier 
+ 
 To run everything smoothly in Mac OS, follow the steps:
+
 1. pip install virtualenv
 2. virtualenv myenv -p python3.8
 3. source myenv/bin/activate 
@@ -10,8 +12,8 @@ To run everything smoothly in Mac OS, follow the steps:
 
 ***** Important *****
 
-Scraped Data File With Label: youtube_comments_labeled_multilingual_with_banglish.csv
-Final Code For Scraped Data: scraped_data_final.ipynb
+1. Scraped Data File With Label: youtube_comments_labeled_multilingual_with_banglish.csv
+2. Final Code For Scraped Data: scraped_data_final.ipynb
 
 
 **** What is done in the project ****
