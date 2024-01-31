@@ -24,3 +24,4 @@ To run everything smoothly in Mac OS, follow the steps:
 4. xs for X and ys for label Y
 5. Data Split for train and test
 6. Training the predictive models
+7. xs_2 is for word2vec and Glove only
